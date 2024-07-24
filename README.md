@@ -4,8 +4,6 @@ This project leverages advanced deep learning models to classify food images and
 
 ## Table of Contents
 
-- [Project Title](#project-title)
-  - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Features](#features)
   - [Configuration](#configuration)

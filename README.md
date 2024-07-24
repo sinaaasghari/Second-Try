@@ -23,6 +23,7 @@ validation accuracy : 70%
 ## Features
 
 - **Live Demo**: A live demo of the image classifier is available on this [dashboard](http://food22classifier.dpzone.top).
+  you can access the dashboard source code  to test it on your own model [here](https://github.com/Donya-Jafari/FoodClassificationDashboard)
 
 
 ## Acknowledgements
